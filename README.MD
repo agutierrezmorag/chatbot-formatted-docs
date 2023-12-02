@@ -8,7 +8,7 @@ Repositorio de reglamentos corregidos para el desarrollo del [Chatbot UNAP](http
 | ---------------------------------------------------------------- | --------- |
 | Reglamento del centro de docentes y de vinculacion               | TERMINADO |
 | Reglamento del departamento de formacion tecnica                 |           |
-| Reglamento del sistema de bibliotecas                            |           |
+| Reglamento del sistema de bibliotecas                            | EN CURSO  |
 | Reglamento de administracion de carreras                         |           |
 | Reglamento de admision a carreras ingresos especiales psu        |           |
 | Reglamento de la direccion general de docencia                   |           |
