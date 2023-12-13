@@ -14,6 +14,6 @@ Repositorio de reglamentos corregidos para el desarrollo del [Chatbot UNAP](http
 - [ ] Reglamento direccion de admision
 - [ ] Reglamento direccion general de asuntos estudiantiles
 - [ ] Reglamento general de facultades
-- [ ] Reglamento organico de la oficina de evaluacion academica de 669
+- [x] Reglamento organico de la oficina de evaluacion academica de 669
 - [ ] Reglamento regimen general de estudios|
 
